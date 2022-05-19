@@ -1,0 +1,4 @@
+
+Error: Unknown database 'concesionari'. Linea: 11. Archivo: C:\xampp\htdocs\Tp_Final_lab2_Remmer\conexion.php. 
+Error: Unknown database 'concesionari'. Linea: 11. Archivo: C:\xampp\htdocs\Tp_Final_lab2_Remmer\conexion.php. 
+Error: Unknown database 'concesionari'. Linea: 11. Archivo: C:\xampp\htdocs\Tp_Final_lab2_Remmer\conexion.php. 
